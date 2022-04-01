@@ -11,3 +11,6 @@ Projeto feito com o intuito de fornecer uma visão sobre a correlação entre as
 Passo a passo:
 Para que o projeto,funcione de maneira adequada deve-se primeiro baixar a seguinte base de dados:
 https://drive.google.com/drive/folders/1Xw9-uMM_saHUHRrNYDw9d7BKuEbrdgxc?usp=sharing
+
+Após importar a base seguir o tutorial:
+![tutorial_video](https://drive.google.com/drive/folders/1Xw9-uMM_saHUHRrNYDw9d7BKuEbrdgxc?usp=sharing)
